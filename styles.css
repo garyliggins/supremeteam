@@ -1,0 +1,89 @@
+.card {
+    align-items: center;
+ 
+}
+
+
+
+#mc-embedded-subscribe-form {
+    width: 50%;
+    display: inline-block;
+    /* position: absolute;
+    bottom: 10px; */
+    
+}
+
+#mc_embed_signup {
+  
+  color: white;
+    text-align: center;
+ 
+}
+
+.ticket-title {
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+
+.la-function-carousel {
+   margin-top: 20px;
+  margin-bottom: 20px;
+  
+    
+   
+}
+
+
+
+
+#carouselExampleControls {
+    width: 40%;
+   
+    
+}
+#carouselExampleControls2 {
+    width: 40%;
+   
+    
+}
+#carouselExampleControls3 {
+    width: 40%;
+   
+    
+}
+
+
+
+
+
+
+.home-page-cards {
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.dragon-fly-img{
+    margin-top: 75px;
+    margin-bottom: 150px;
+}
+
+.la-function-video {
+    width: 40%;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+    /* margin-top: 20px;
+    
+    height: 500px;
+    width: 600px;
+    border-radius: 10px; */
+}
+
+/* .videoWrapper  {
+   
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+} */
