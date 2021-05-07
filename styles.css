@@ -1,5 +1,14 @@
+
+ * {
+     margin: 0;
+     padding: 0;
+     border: dotted red 1px;
+
+}
 .card {
     align-items: center;
+    margin-top: 3em;
+    margin-bottom:3em;
  
 }
 
@@ -37,7 +46,7 @@
 
 
 
-
+/* 
 #carouselExampleControls {
     width: 40%;
    
@@ -52,17 +61,17 @@
     width: 40%;
    
     
-}
+} */
 
 
 
 
 
 
-.home-page-cards {
+/* .home-page-cards {
    margin-top: 20px;
    margin-bottom: 20px;
-}
+} */
 
 .dragon-fly-img{
     margin-top: 75px;
@@ -70,9 +79,9 @@
 }
 
 .la-function-video {
-    width: 40%;
+    /* width: 40%;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: 20px; */
     
     /* margin-top: 20px;
     
@@ -87,3 +96,26 @@
     width: 500px;
     border-radius: 10px;
 } */
+
+@media screen and (max-width: 500px) {
+    .row{padding-left:2em; padding-right: 2em; } 
+    }
+
+     @media screen and (max-width: 500px) {
+        .la-function-video{width: 100%; padding-left:2em; padding-right: 2em;  } 
+        }
+        @media screen and (max-width: 900px) {
+            .la-function-video{width: 75%; padding-left:2em; padding-right: 2em;  } 
+            }
+
+        @media screen and (max-width: 600px) {
+            .la-function-carousel{width: 100%;  } 
+            } 
+            
+            @media screen and (max-width: 600px) {
+                .hyde-image{ } 
+                } 
+
+            /* @media screen and (max-width: 600px) {
+                .carouselExampleControls{width: 100%; padding-left:1em; padding-right: 1em; } 
+                }  */
