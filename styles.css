@@ -88,6 +88,7 @@
 }
 
 
+/* all media queries for all pages  */
 @media screen and (max-width: 500px) {
     .row{padding-left:2em; padding-right: 2em; } 
     }
@@ -129,8 +130,8 @@
             width: 75%;
         }
        }
-             
-          
+
+       
 
             /* @media screen and (max-width: 600px) {
                 .carouselExampleControls{width: 100%; padding-left:1em; padding-right: 1em; } 
