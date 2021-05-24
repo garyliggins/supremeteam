@@ -6,6 +6,15 @@
 
 }
 
+.header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-description-la-function  {
+    margin-bottom: 30px;
+}
+
 .card {
     align-items: center;
     margin-top: 3em;
@@ -46,13 +55,18 @@
 
 .la-function-carousel {
    margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 
 }
 
 .la-function-video {
     margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.dragon-fly-tickets {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* 
@@ -90,7 +104,7 @@
 
 /* all media queries for all pages  */
 @media (max-width: 767.98px) {
-    .row {padding-left:2em; padding-right: 2em; } 
+    .card {margin-left:2em; margin-right: 2em; } 
     }
 
     /* video media queries */
