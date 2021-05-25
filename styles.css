@@ -69,6 +69,10 @@
     margin-bottom: 20px;
 }
 
+.cards-section {
+    /* display: inline-block; */
+}
+
 /* 
 #carouselExampleControls {
     width: 40%;
@@ -145,6 +149,7 @@
         }
        }
 
+       
        
 
             /* @media screen and (max-width: 600px) {
