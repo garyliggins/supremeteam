@@ -5,10 +5,22 @@
      /* border: dotted red 1px; */
 
 }
+a {
+    text-decoration: none;
+    color: black;
+}
 
 .header {
     margin-top: 20px;
     margin-bottom: 20px;
+    
+}
+header {
+    background-image: url('croppedfunctionbackground.jpeg') ;
+   height: 300px;
+   background-size: cover;
+   background-position: center;
+
 }
 
 .main-description-la-function  {
@@ -51,6 +63,11 @@
      margin-top: 20px;
 }
 
+.on-sale-ribbon {
+    height: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
 
 
 .la-function-carousel {
