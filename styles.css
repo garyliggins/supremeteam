@@ -146,12 +146,20 @@ header {
         }
        }
 
-       @media (max-width: 800px) { 
+        @media (max-width: 1000px) { 
         .dragon-fly-logo{
+            width: 100%;
+            
+        }
+       }
+       @media (max-width: 1000px) { 
+        .dragon-container {
             width: 100%;
         }
        }
-      
+     
+
+       
        
        
         
