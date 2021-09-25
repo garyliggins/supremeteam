@@ -157,9 +157,20 @@ header {
         }
        }
      
+       @media  (max-width: 767.98px) { 
+        .halloweenFlyer {
+            width: 75%;
+        }
+      }
 
+      @media  (max-width: 767.98px) { 
+        .ticket-widget {
+            width: 100% !important;
+        }
+      }
        
        
+      
        
         
             /* @media screen and (max-width: 600px) {
